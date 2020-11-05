@@ -20,6 +20,5 @@ coverage
 .idea
 .current-env
 .nyc_output
-runtime/*.build.js
 yarn.lock
 .vscode/launch.json
